@@ -20,8 +20,17 @@ Herramienta en Python que detecta archivos duplicados dentro de una carpeta usan
 ---
 
 ## ▶️ Uso
+1. # Executable version
 
-1. Ejecuta el programa:
+If you don't have Python installed, you can run:
+
+dist/detector_duplicados.exe
+
+No installation required.
+
+2. Ejecuta el programa:
 
 ```bash
 python repetido.py
+
+
